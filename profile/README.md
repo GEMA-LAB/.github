@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="././.assets/logo.png" alt="Logo do GEMA" height="400">
+  <img src="../.assets/logo.png" alt="Logo do GEMA" height="400">
 </p>
 
 <p align="center">
